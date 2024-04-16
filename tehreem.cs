@@ -1,4 +1,4 @@
-class tehreem
+internal class tehreem
 {
   string x;
   string y;
